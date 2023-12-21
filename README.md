@@ -6,7 +6,7 @@ Welcome to the A* Pathfinding Algorithm project! This implementation is written 
 ## Table of Contents
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [JavaScript Implementation](#javascript-implementation)
+- [JavaScript Implementation](https://github.com/0xQuirkai/a-pathfinding-algo-with-custom-walls-on-vanilla-js)
 
 ## Usage
 
